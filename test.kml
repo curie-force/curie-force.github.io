@@ -58,9 +58,17 @@
       </LineStyle>
     </Style>
 
+
+    <Style id="Shannon">
+      <LineStyle>
+        <color>ff61f2f2</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+
     <Placemark>
       <name>Shannon Map</name>
-      <styleUrl>#yellowLine/styleUrl>
+      <styleUrl>#Shannon</styleUrl>
       <LineString>
         <altitudeMode>relative</altitudeMode>
         <coordinates>
@@ -1298,7 +1306,7 @@
     </Placemark>
 
     <Placemark>
-      <name>Yellow Line testing213</name>
+      <name>Yellow Line</name>
       <styleUrl>#yellowLine</styleUrl>
       <LineString>
         <altitudeMode>relative</altitudeMode>
