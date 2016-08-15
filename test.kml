@@ -1297,7 +1297,7 @@
     </Placemark>
 
     <Placemark>
-      <name>Yellow Line This worked I think</name>
+      <name>Yellow Line This worked I think yes it did</name>
       <styleUrl>#yellowLine</styleUrl>
       <LineString>
         <altitudeMode>relative</altitudeMode>
@@ -1322,6 +1322,9 @@
 -87.67619848251343,42.021117210388184,0
 -87.6747179031372,42.02038764953613,0
 -87.67283499240875,42.019110918045044,0
+52.717572249799765,-8.863096833229065,0
+52.717559251933004,-8.863493800163269,0
+52.717500761484594,-8.863783478736877,0
         </coordinates>
       </LineString>
     </Placemark>
