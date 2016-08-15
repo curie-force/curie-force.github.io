@@ -57,16 +57,23 @@
         <width>4</width>
       </LineStyle>
     </Style>
+    
+    <Style id="shannon">
+      <LineStyle>
+        <color>ff61f2f2</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
 
     <Placemark>
       <name>Shannon Map</name>
-      <styleUrl>#yellowLine</styleUrl>
+      <styleUrl>#shannon</styleUrl>
       <LineString>
         <altitudeMode>relative</altitudeMode>
         <coordinates>
-52.717572249799765,-8.863096833229065,0
-52.717559251933004,-8.863493800163269,0
-52.717500761484594,-8.863783478736877,0
+-8.863096833229065,52.717572249799765,0
+-8.863493800163269,52.717559251933004,0
+-8.863783478736877,52.717500761484594,0
         </coordinates>
       </LineString>
     </Placemark>
