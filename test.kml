@@ -51,12 +51,6 @@
         <width>4</width>
       </LineStyle>
     </Style>
-    <Style id="yellowLine">
-      <LineStyle>
-        <color>ff61f2f2</color>
-        <width>4</width>
-      </LineStyle>
-    </Style>
 
 
     <Style id="Shannon">
